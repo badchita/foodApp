@@ -2,4 +2,8 @@
     <string name="app_name">Marche</string>
     <string name="home">home</string>
     <string name="splash">TODO</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="logo">TODO</string>
+    <string name="main">main</string>
 </resources>
