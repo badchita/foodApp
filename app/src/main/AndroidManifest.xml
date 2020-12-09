@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Marche">
         <activity android:name=".SplashScreen"></activity>
+        <activity android:name=".LoginActivity"></activity>
         <activity
             android:name=".HomeActivity"
             android:label="Home" />
