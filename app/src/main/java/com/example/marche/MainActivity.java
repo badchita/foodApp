@@ -23,8 +23,6 @@ public class MainActivity extends AppCompatActivity {
 //
 //
 //        image.setAnimation(topAnim);
-
-
         //openLogin function
         new Handler().postDelayed(new Runnable() {
             @Override

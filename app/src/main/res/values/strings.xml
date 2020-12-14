@@ -2,8 +2,22 @@
     <string name="app_name">Marche</string>
     <string name="home">home</string>
     <string name="splash">TODO</string>
-    <string name="sign_in">SIGN IN</string>
-    <string name="sign_up">SIGN UP</string>
+    <string name="sign_in1">SIGN IN</string>
+    <string name="sign_up1">SIGN UP</string>
     <string name="logo">TODO</string>
     <string name="main">main</string>
+    <string name="enter_mobile_number1">Enter Mobile Number</string>
+    <string name="enter_password1">Enter Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="forgot_you_password">Forgot you Password?</string>
+    <string name="new_user_sign_up">NEW USER? SIGN UP</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="already_have_an_account_sign_in">ALREADY HAVE AN ACCOUNT? SIGN IN</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="sign_in_to_you_account">Sign in to you account</string>
+    <string name="todo">TODO</string>
+    <string name="forgot_your_password">Forgot your Password?</string>
 </resources>
